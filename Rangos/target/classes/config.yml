@@ -1,0 +1,13 @@
+rangos:
+  rango1:
+    nombre: Novato
+    color: YELLOW
+    tiempo: 5 # Horas
+  rango2:
+    nombre: Veterano
+    color: BLUE
+    tiempo: 20
+  rango3:
+    nombre: Experto
+    color: DARK_PURPLE
+    tiempo: 50
