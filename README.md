@@ -1,4 +1,3 @@
-# Minecraft_Rangos
 Plugin de Rangos Automáticos para Minecraft 1.20.1
 
 Sistema automático de rangos basado en tiempo de juego para servidores Minecraft. Los jugadores ascienden de rango según sus horas jugadas, con configuración completamente personalizable.
