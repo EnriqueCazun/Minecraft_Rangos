@@ -8,7 +8,6 @@ Sistema automático de rangos basado en tiempo de juego para servidores Minecraf
 - **Ascenso automático** por tiempo jugado.
 - **Configuración 100% personalizable** (nombres, colores, requisitos de tiempo).
 - **Comando `/tiempo`** para ver progreso hacia el siguiente rango.
-- **Persistencia de datos** entre reinicios del servidor.
 - **Soporte para colores** y formatos en nombres.
 - **Actualización en tiempo real** de rangos en chat y tablist.
 
